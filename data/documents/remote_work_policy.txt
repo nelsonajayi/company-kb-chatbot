@@ -1,0 +1,38 @@
+ACME CORPORATION - REMOTE WORK POLICY
+
+Effective Date: March 1, 2024
+
+1. ELIGIBILITY
+All employees who have completed their probationary period (90 days) are eligible for remote work.
+Contractors and interns are not eligible for remote work.
+
+2. REMOTE WORK SCHEDULE
+- Employees may work remotely up to 3 days per week
+- Must be in office on Tuesdays and Thursdays (core collaboration days)
+- Remote days must be consistent each week and approved by manager
+- Schedule changes require 2 weeks notice
+
+3. EQUIPMENT PROVIDED
+The company provides the following equipment for remote work:
+- Laptop computer (Dell or MacBook)
+- External monitor (up to 27 inches)
+- Keyboard and mouse
+- Headset with microphone
+- $500 one-time home office stipend for desk, chair, etc.
+
+4. HOME OFFICE REQUIREMENTS
+- Dedicated workspace with reliable internet (minimum 50 Mbps)
+- Quiet environment suitable for video calls
+- Ergonomic setup to prevent injury
+
+5. EXPECTATIONS AND AVAILABILITY
+- Must be available during core hours (10am-3pm EST)
+- Must attend all scheduled meetings via video
+- Response time to Slack messages: within 2 hours during work hours
+- Same productivity standards as in-office work
+
+6. SECURITY
+- Use company VPN when accessing internal systems
+- Do not work from public WiFi networks
+- Lock computer when away from desk
+- No family members should access company equipment
